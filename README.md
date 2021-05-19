@@ -15,11 +15,17 @@ Please see the below portfolio, as you asked for some of the main network deploy
 Following are some of the recent DApps and links to the Ethereum Smart Contracts:
 
 https://www.swapfol.io
+
 https://www.rarepepe.io
+
 https://vanilla.network/Stake.html
+
 https://lockdefi.com/
+
 https://tradepower.io/
+
 https://reesefinance.tech/
+
 
 
 
