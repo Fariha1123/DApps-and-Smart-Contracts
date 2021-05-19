@@ -7,6 +7,7 @@ Following are some of the recent DApps and links to the Ethereum Smart Contracts
 ## https://vanilla.network/Stake.html
 ## https://lockdefi.com/
 ## https://tradepower.io/
+## https://reesefinance.tech/
 
 
 
@@ -26,9 +27,19 @@ Token Smart Contracts:
 
 ## https://etherscan.io/token/0xc381bb219830ab298e3fec16530c21fa0cdd23d1
 
+https://etherscan.io/address/0x99a43bb04e7be30004b09561ebffc4488ece5322#code
+
+BINANCE
+
 ## https://bscscan.com/token/0x09ee4d64591de51d834f89bcdbc3e4e0231132ed
 
 ## https://bscscan.com/address/0x2edfb112370ed1cdb80d4f12f9cd8c04b2e40758#code
+
+## https://bscscan.com/token/0x7bF6c80f0F3282c738773A4912A875825cE41FCd
+
+## https://bscscan.com/address/0xfd904ea3c7cd6146a1073c716902a7c11d005fc0#code
+
+## https://bscscan.com/token/0x3C6A658aD84a768CD690046F22BeA9eaD82E1b43
 
 
 PreSale Smart Contracts:
@@ -40,6 +51,8 @@ PreSale Smart Contracts:
 ## https://etherscan.io/address/0x9c31BC80d4D88846BD5D85660fDa0d91402e6761
 
 ## https://etherscan.io/address/0x9d40bAc0425b945A1a7a96B0949476DD049CcCe3
+
+## https://bscscan.com/address/0x66Aca70b227ACd2fbB520047692845bA755E608D#code
 
 ## https://bscscan.com/address/0x4fb656c1dc89c5e67aba10c2114bbe8b54a24724#code
 
