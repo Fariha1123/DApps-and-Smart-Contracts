@@ -78,7 +78,7 @@ https://bscscan.com/address/0x4fb656c1dc89c5e67aba10c2114bbe8b54a24724#code
 
 https://etherscan.io/address/0xc1f0cb553290cf86e98c647a2e3cb49a99244d1e#code
 
-## Staking Smart Contracts:
+## Staking Farming Smart Contracts:
 
 https://etherscan.io/address/0xcaf234ae8112d30d8b20712895937d23787c052d#code  SWFL Staking for swapfol dapp mentioned above
 
