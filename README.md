@@ -4,8 +4,10 @@ I have strong grip on solidity and I also provide my services for web3 interacti
 I have worked on `Ethereum`, `Tron`, `Binance`, `Heco` Blockchain
 Please see the below portfolio, as you asked for some of the main network deployed contracts. I have listed some of them. I have successfully completed more than 300 contracts as of time of writing. Feel free to read my reviews at:
 
-## Fiverr: https://www.fiverr.com/farihaabbasi
-## Upwork: https://www.upwork.com/o/profiles/users/~01c3ba695060920ed3/
+## Fiverr: 
+          https://www.fiverr.com/farihaabbasi
+## Upwork: 
+          https://www.upwork.com/o/profiles/users/~01c3ba695060920ed3/
 
 
 # DApps-and-Smart-Contracts Portfolio
