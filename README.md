@@ -49,6 +49,10 @@ https://etherscan.io/address/0x99a43bb04e7be30004b09561ebffc4488ece5322#code
 
 ### BINANCE
 
+https://bscscan.com/token/0xc045fb5b3ae934a7f95679852ee598d79f268114 BSCCROP TOKEN
+
+https://bscscan.com/address/0x1c48ba0c27a768df9ae24985b1d784ddeebbebc3#code BSCCROP LP TOKENS
+
 https://bscscan.com/token/0x09ee4d64591de51d834f89bcdbc3e4e0231132ed
 
 https://bscscan.com/address/0x2edfb112370ed1cdb80d4f12f9cd8c04b2e40758#code
@@ -58,6 +62,10 @@ https://bscscan.com/token/0x7bF6c80f0F3282c738773A4912A875825cE41FCd
 https://bscscan.com/address/0xfd904ea3c7cd6146a1073c716902a7c11d005fc0#code
 
 https://bscscan.com/token/0x3C6A658aD84a768CD690046F22BeA9eaD82E1b43
+
+https://bscscan.com/address/0xaF854d5b6a005d8C4005d097C8173aDa25a5e0E6#code Rewards wallet contract
+
+https://bscscan.com/address/0xdaDf94a7d88d0D3Ea6D9e4A95EcF19B35264e804#code Staking contract
 
 
 ## PreSale Smart Contracts:
