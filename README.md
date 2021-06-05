@@ -16,6 +16,10 @@ Following are some of the recent DApps and links to the Ethereum Smart Contracts
 
 https://www.swapfol.io
 
+https://bsccrop.com/Staking/
+
+https://bsccrop.com/
+
 https://www.rarepepe.io
 
 https://vanilla.network/Stake.html
